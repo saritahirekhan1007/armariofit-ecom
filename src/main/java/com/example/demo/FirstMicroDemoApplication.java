@@ -8,6 +8,7 @@ public class FirstMicroDemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(FirstMicroDemoApplication.class, args);
+		System.out.println(" first microservices program");
 	}
 
 }
